@@ -13,6 +13,8 @@ I'm Xiawei Liu(刘夏薇), a first-year master's student at Fudan University in 
 
 
 Currently, I’m excited about the following topics:
+- Computational Social Science via Large Language Model
+- Agents Simulation powered by Large Language Model
 
 
 ### Publication
