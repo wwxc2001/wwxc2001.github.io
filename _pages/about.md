@@ -21,3 +21,7 @@ Currently, I’m excited about the following topics:
 - [AI-Press: A Multi-Agent News Generating and Feedback Simulation System Powered by Large Language Models](https://arxiv.org/abs/2410.07561). **Preprint**  
 **Xiawei Liu\***, Shiyue Yang\*, Xinnong Zhang, Haoyu Kuang, Libo Sun, Yihang Yang, Siming Chen, Xuanjing Huang, Zhongyu Wei.
 \* indicates equal contributions.
+
+- [AgentSense: Benchmarking Social Intelligence of Language Agents through Interactive Scenarios](https://arxiv.org/abs/2410.19346). **Preprint**  
+  Xinyi Mou\*, Jingcong Liang\*, Jiayu Lin\*, Xinnong Zhang\*, **Xiawei Liu**, Shiyue Yang, Rong Ye, Lei Chen, Haoyu Kuang, Xuanjing Huang, Zhongyu Wei  
+  \* indicates equal contributions.
